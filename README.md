@@ -1,6 +1,6 @@
 # Library Book Catalog API (Spring Boot)
 
-A simple Spring Boot RESTful API for managing a library’s book catalog. This project uses Java 8+, Spring Boot, and in-memory data (via H2 or Java Map). It follows REST principles and uses standard HTTP methods for CRUD operations.
+A simple Spring Boot RESTful API for managing a library’s book catalog. This project uses Java 8+, Spring Boot. It follows REST principles and uses standard HTTP methods for CRUD operations.
 
 ---
 
